@@ -12,9 +12,6 @@
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 
-# Files created by JetBrains IDEs such as GoLand, IntelliJ, and PyCharm
-/.idea
-
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
